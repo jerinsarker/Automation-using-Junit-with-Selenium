@@ -2,15 +2,15 @@
 This project includes three automated test cases implemented using Java, Selenium, and JUnit.
 #Tasks Overview
 1. Webform Automation for Digital Unite
-URL:https://www.digitalunite.com/practice-webform-learners
+URL: https://www.digitalunite.com/practice-webform-learners
 
 - Automating the form submission process, including file upload (≤ 2 MB) and validating the success message.
 2. Guest Registration Automation for WP Everest
-URL:https://demo.wpeverest.com/user-registration/guest-registration-form
+URL: https://demo.wpeverest.com/user-registration/guest-registration-form
 
 - Automating the guest registration form by filling out mandatory fields, submitting the form, and verifying successful registration.
 3. Web Scraping for DSEBD Stock Prices
-URL:https://dsebd.org/latest_share_price_scroll_by_value.php
+URL: https://dsebd.org/latest_share_price_scroll_by_value.php
 
 - Scraping stock market table data, printing all cell values, and storing them in a text file for further reference.
 #Technology used/ Prerequisites
@@ -26,7 +26,7 @@ Libraries/Dependencies:
 Browser and Driver:
 
 - ChromeDriver, FireFoxDriver, or any compatible browser driver.
-# What I Have Done in this project:
+# What I Have Done In This Project:
 - Task1: Webform Automation for Digital Unit-utomated field inputs.,implemented file upload functionality and asserted the expected success message: "Thank you for your submission!".
 - Task2:Guest Registration Automation for WP Everest- Automated field inputs for First Name, Last Name, Email, Password, Gender, DOB, Nationality, Phone, Country, and acceptance of Terms & Conditions.
 Asserted successful registration upon submission.
