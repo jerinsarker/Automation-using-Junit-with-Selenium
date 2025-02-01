@@ -30,7 +30,7 @@ Browser and Driver:
 - Task1: Webform Automation for Digital Unit-utomated field inputs.,implemented file upload functionality and asserted the expected success message: "Thank you for your submission!".
 - Task2:Guest Registration Automation for WP Everest- Automated field inputs for First Name, Last Name, Email, Password, Gender, DOB, Nationality, Phone, Country, and acceptance of Terms & Conditions.
 Asserted successful registration upon submission.
--Task3:Web Scraping for DSEBD Stock Prices-Scraped table data from the provided webpage using Selenium,Printed all table cell values in the console and Stored the scraped data into a text file for reference.
+- Task3:Web Scraping for DSEBD Stock Prices-Scraped table data from the provided webpage using Selenium,Printed all table cell values in the console and Stored the scraped data into a text file for reference.
 # Reports of Task:
 ![Screenshot (288)](https://github.com/user-attachments/assets/eaccb220-b34c-4000-85f7-1b078f4e82c7)
 
