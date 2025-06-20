@@ -13,7 +13,7 @@ URL: https://demo.wpeverest.com/user-registration/guest-registration-form
 URL: https://dsebd.org/latest_share_price_scroll_by_value.php
 
 - Scraping stock market table data, printing all cell values, and storing them in a text file for further reference.
-#Technology used/ Prerequisites
+# Technology used/ Prerequisites:
 To start these automated scripts, ensure the following setup:
 Development Environment:
 
